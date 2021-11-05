@@ -1,1 +1,0 @@
-Please put the data file "en.vir_back.vir_5000.rda" into the installed folder "data" after you installed the package!
